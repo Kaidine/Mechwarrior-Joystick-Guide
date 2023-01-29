@@ -42,6 +42,8 @@ will provide links to guides I used where I can.
 Generally speaking, setting up joystick support will look like the following:
 
 1. Download and install vJoy and joystick gremlin, if you don't already have them.
+   1. vJoy can be found [here.](https://sourceforge.net/projects/vjoystick/)
+   2. Joystick Gremlin can be found [here.](http://whitemagic.github.io/JoystickGremlin/)
 2. Configure a vJoy device to have an appropriate number of axes and hat switches. It may help to create a different 
 virtual device for each game. Buttons are optional, but not necessary.
 3. Create a joystick gremlin profile. I recommend a different profile for each game!
