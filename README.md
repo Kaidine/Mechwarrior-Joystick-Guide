@@ -20,7 +20,6 @@ MechWarrior series with joysticks!
 
 ### My Setup
 
-
 For context, this is the hardware that my setup is currently running on (mostly which joysticks). This shouldn't make 
 much difference outside of specific key bindings, but I've included it nonetheless.
 
@@ -36,8 +35,11 @@ much difference outside of specific key bindings, but I've included it nonethele
 
 ## General Instruction Outline
 
-Instructions specific to each game will be added in the respective subfolders as I write them. However, they will all 
-have the same general shape.
+Instructions specific to each game will be added in the respective subfolders as I write them. All instructions will 
+assume that you have a working copy of the game installed - installing the game is *not* part of this guide, although I 
+will provide links to guides I used where I can. 
+
+Generally speaking, setting up joystick support will look like the following:
 
 1. Download and install vJoy and joystick gremlin, if you don't already have them.
 2. Configure a vJoy device to have an appropriate number of axes and hat switches. It may help to create a different 
@@ -50,5 +52,6 @@ the virtual device. If you're using a different virtual device for each game, ma
    individual (physical) buttons to virtual keyboard keys. This also allows you to do keybindings entirely outside of 
    the game itself - map whatever physical button you like to the default key binding of the game, and you're golden!
 5. Configure the game to use the *virtual* joystick (and keyboard) as input.
+   1. This is one of the tricky parts - defer to the game-specific instructions for this one!  
 6. When you want to run the game, activate the appropriate joystick gremlin profile.
 7. Collect Salvage! ; )
