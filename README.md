@@ -3,7 +3,7 @@
 ## Overview
 
 ### Summary 
-This guide should walk you through getting joysticks (or other HID devices) working with MechWarrior titles both past 
+This guide should walk you through getting joysticks (or other HID devices) working with Mechwarrior titles both past 
 and present. As of right now, this will only work on *native Windows* systems. I'd love to include support for 
 Mac/Linux, but the programs I'll be describing here are Windows-only. Alternatives may exist, but I'm not aware of them-
 If you know of any, let me know or open a pull request!
@@ -12,11 +12,11 @@ This guide is entirely based off of what worked for me; It should work for any W
 guarantee (or test!) it. Even if it doesn't work exactly the same way for you, I hope it will be a good jumping-off 
 point to 'Mech-blasting fun!
 
-Oh, and the usual disclaimers: I don't own any MechWarrior or BattleTech IP. I don't work for any of the companies that 
+Oh, and the usual disclaimers: I don't own any Mechwarrior or BattleTech IP. I don't work for any of the companies that 
 have made these games, either now or in the past. I'm not even a mod author for any of them. I'm just a nerd who wanted 
 to pilot some big stompy robots, and to use a joystick to do so. Share this guide with whoever, for whatever reason; 
 Make any edits you want (albeit not in this repository, please...). I just hope this eases your way into playing the 
-MechWarrior series with joysticks! 
+Mechwarrior series with joysticks! 
 
 ### My Setup
 

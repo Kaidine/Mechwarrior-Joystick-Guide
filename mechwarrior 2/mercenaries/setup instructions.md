@@ -1,1 +1,4 @@
-WIP - check out the 31st century combat guide for now!
+# Mercenaries
+
+The joystick setup process for Mercenaries is identical to the one for 31st century combat. See that guide for
+details.
