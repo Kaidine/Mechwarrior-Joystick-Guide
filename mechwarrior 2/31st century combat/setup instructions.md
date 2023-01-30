@@ -61,7 +61,7 @@ probably want to create a handy shortcut to this somewhere.
 Create a new Profile and save it as a distinct name.
 
 Map a couple of axes from your physical joystick(s) to the vJoy device you created earlier. Make sure to map at least
-one button to the joytick buttons! You may not want to map *everything* until you know that the game is actually
+one button to the joystick buttons! You may not want to map *everything* until you know that the game is actually
 recognizing your joystick - you can always come back later. Save your changes!
 
 I've included the most recent mapping that I've used under 'configs'. *THIS PROBABLY WILL NOT WORK FOR YOU AS-IS*.
@@ -164,5 +164,10 @@ bindings in joystick gremlin by just deactivating and reactivating your profile,
 mission/the game/ dosbox.
 
 ## Play the Game
+
+It's worth noting that Mechwarrior 2 uses "Absolute Positioning" for the joystick by default - that is, the amount 
+you've moved the stick corresponds to how far the torso moves (relative to its possible range of motion), not how fast 
+it does the twisting. For a *much* more thorough breakdown on what that means, check out [this excellent writeup] by 
+Loc Nar on the MWO forums. 
 
 Setup should now be complete - time to play the game, mechwarrior! Good Hunting, and good salvage!
